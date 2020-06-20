@@ -3,6 +3,7 @@ public class Test {
 
         System.out.println("al");
         System.out.printlbn("xixi");
+        System.out.printlbn("xixi");
     }
 
 }
